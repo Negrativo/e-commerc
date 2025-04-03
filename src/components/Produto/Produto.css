@@ -1,0 +1,15 @@
+.container-produto {
+    width: 150px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    flex-direction: column;
+}
+
+.nome-produto {
+    background-color: rgba(128, 128, 128, 0.377);
+}
+
+.imagem-produto {}
