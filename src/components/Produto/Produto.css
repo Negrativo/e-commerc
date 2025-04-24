@@ -6,10 +6,15 @@
     justify-content: center;
     padding: 10px;
     flex-direction: column;
+    border-radius: 50px;
 }
 
 .nome-produto {
-    background-color: rgba(128, 128, 128, 0.377);
+ 
 }
 
 .imagem-produto {}
+
+.dados-prod {
+    
+}
